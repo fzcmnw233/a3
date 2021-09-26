@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 63a20774b4189bf4ebafc358c0241cc3
+guid: a4336333e0c066e4d935a72099c5d812
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2425240048369264090
-    second: greenrecorving_0
+      213: -3373641248228096249
+    second: bluescare_0
   - first:
-      213: -8932147740881594892
-    second: greenrecorving_1
+      213: -5938759785298086568
+    second: bluescare_1
   - first:
-      213: 2708355678839686658
-    second: greenrecorving_2
+      213: 2921176368081330491
+    second: bluescare_2
   - first:
-      213: 2679329651228033493
-    second: greenrecorving_3
+      213: 3970806434624270501
+    second: bluescare_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 800
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,7 +103,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: greenrecorving_0
+      name: bluescare_0
       rect:
         serializedVersion: 2
         x: 0
@@ -117,14 +117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62a16e58601d75ed0800000000000000
-      internalID: -2425240048369264090
+      spriteID: 70742c7b82b6e21d0800000000000000
+      internalID: -3373641248228096249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenrecorving_1
+      name: bluescare_1
       rect:
         serializedVersion: 2
         x: 0
@@ -138,14 +138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f5d17744f2aa0480800000000000000
-      internalID: -8932147740881594892
+      spriteID: 855beeea079459da0800000000000000
+      internalID: -5938759785298086568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenrecorving_2
+      name: bluescare_2
       rect:
         serializedVersion: 2
         x: 0
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 206c6a2f323069520800000000000000
-      internalID: 2708355678839686658
+      spriteID: b31e0c10e6a1a8820800000000000000
+      internalID: 2921176368081330491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenrecorving_3
+      name: bluescare_3
       rect:
         serializedVersion: 2
         x: 0
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d14e914f14ee2520800000000000000
-      internalID: 2679329651228033493
+      spriteID: 5a07d9ff9632b1730800000000000000
+      internalID: 3970806434624270501
       vertices: []
       indices: 
       edges: []

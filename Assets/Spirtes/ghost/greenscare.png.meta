@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 151a2bc2d6d2d174da102cd1fddce2b5
+guid: 6152605ad02ca11438889e792714758e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8759838189411082394
-    second: yellowscare_0
+      213: 3329448100013840671
+    second: greenscare_0
   - first:
-      213: -6628017585738995835
-    second: yellowscare_1
+      213: 4789841579200805516
+    second: greenscare_1
   - first:
-      213: -1465833792597180966
-    second: yellowscare_2
+      213: 940962437198037577
+    second: greenscare_2
   - first:
-      213: -9177031718752157391
-    second: yellowscare_3
+      213: -6979365367289471833
+    second: greenscare_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 800
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,7 +103,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yellowscare_0
+      name: greenscare_0
       rect:
         serializedVersion: 2
         x: 0
@@ -117,14 +117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a90afb1fb62319970800000000000000
-      internalID: 8759838189411082394
+      spriteID: f199c632863943e20800000000000000
+      internalID: 3329448100013840671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yellowscare_1
+      name: greenscare_1
       rect:
         serializedVersion: 2
         x: 0
@@ -138,14 +138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5872cfc5f1d8404a0800000000000000
-      internalID: -6628017585738995835
+      spriteID: c8af8a2e98fe87240800000000000000
+      internalID: 4789841579200805516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yellowscare_2
+      name: greenscare_2
       rect:
         serializedVersion: 2
         x: 0
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: add3b749eef48abe0800000000000000
-      internalID: -1465833792597180966
+      spriteID: 942cc28e958fe0d00800000000000000
+      internalID: 940962437198037577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yellowscare_3
+      name: greenscare_3
       rect:
         serializedVersion: 2
         x: 0
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13109471642a4a080800000000000000
-      internalID: -9177031718752157391
+      spriteID: 7ac1c0d3d20542f90800000000000000
+      internalID: -6979365367289471833
       vertices: []
       indices: 
       edges: []

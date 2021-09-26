@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 6152605ad02ca11438889e792714758e
+guid: 63a20774b4189bf4ebafc358c0241cc3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3329448100013840671
-    second: greenscare_0
+      213: -2425240048369264090
+    second: greenrecorving_0
   - first:
-      213: 4789841579200805516
-    second: greenscare_1
+      213: -8932147740881594892
+    second: greenrecorving_1
   - first:
-      213: 940962437198037577
-    second: greenscare_2
+      213: 2708355678839686658
+    second: greenrecorving_2
   - first:
-      213: -6979365367289471833
-    second: greenscare_3
+      213: 2679329651228033493
+    second: greenrecorving_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 800
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,7 +103,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: greenscare_0
+      name: greenrecorving_0
       rect:
         serializedVersion: 2
         x: 0
@@ -117,14 +117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f199c632863943e20800000000000000
-      internalID: 3329448100013840671
+      spriteID: 62a16e58601d75ed0800000000000000
+      internalID: -2425240048369264090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenscare_1
+      name: greenrecorving_1
       rect:
         serializedVersion: 2
         x: 0
@@ -138,14 +138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8af8a2e98fe87240800000000000000
-      internalID: 4789841579200805516
+      spriteID: 4f5d17744f2aa0480800000000000000
+      internalID: -8932147740881594892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenscare_2
+      name: greenrecorving_2
       rect:
         serializedVersion: 2
         x: 0
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 942cc28e958fe0d00800000000000000
-      internalID: 940962437198037577
+      spriteID: 206c6a2f323069520800000000000000
+      internalID: 2708355678839686658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenscare_3
+      name: greenrecorving_3
       rect:
         serializedVersion: 2
         x: 0
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ac1c0d3d20542f90800000000000000
-      internalID: -6979365367289471833
+      spriteID: 5d14e914f14ee2520800000000000000
+      internalID: 2679329651228033493
       vertices: []
       indices: 
       edges: []
